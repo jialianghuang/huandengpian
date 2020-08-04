@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.flex {
+  display:flex;
+  align-items: center;
+}
+img {
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+button {
+  height: 50px;
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100%;
+  border-color: black;
+}
